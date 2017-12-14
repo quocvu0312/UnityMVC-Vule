@@ -5,8 +5,10 @@ using UnityEngine;
 public class Caideogivai : MonoBehaviour {
 
 	// Use this for initialization
+    
 	void Start () {
-		
+
+        Debug.Log("helo cac ban");
 	}
 	
 	// Update is called once per frame
